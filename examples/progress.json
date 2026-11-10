@@ -1,0 +1,12 @@
+[
+  {"code":"backup","done":true},
+  {"code":"extensions","done":true},
+  {"code":"shortcuts","done":false},
+  {"code":"project","done":true},
+  {"code":"runtime","done":false},
+  {"code":"formatter","done":false},
+  {"code":"debugger","done":false},
+  {"code":"tests","done":false},
+  {"code":"vcs","done":true},
+  {"code":"docs","done":false}
+]
